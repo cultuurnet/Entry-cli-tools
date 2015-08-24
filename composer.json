@@ -4,7 +4,9 @@
     "type": "project",
     "license": "Apache-2.0",
     "authors": [],
-    "require": {},
+    "require": {
+        "cultuurnet/entry": "~0.1"
+    },
     "require-dev": {
         "phpunit/phpunit": "~4.7",
         "squizlabs/php_codesniffer": "~2.3",
